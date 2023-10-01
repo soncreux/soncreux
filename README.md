@@ -5,7 +5,7 @@
 
 <h1>
 hello
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px"/>
 </h1>
 <!--
 **soncreux/soncreux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
